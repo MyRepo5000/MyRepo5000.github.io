@@ -2,7 +2,7 @@ Package: myrepo5000.emulator.ppsspp
 Version: 1.9.3
 Section: Emulatoren
 Maintainer: PPSSPP Team <hrydgard+ppsspp@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>8.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/myrepo5000.emulator.ppsspp.deb
 Size: 16855
@@ -16,7 +16,7 @@ Package: myrepo5000.multimedia.kodi
 Version: 18.6
 Section: Multimedia
 Maintainer: Kodi Team <sphere@dersphere.de> 
-Depends: firmware (<7.0)
+Depends: firmware (>8.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/myrepo5000.multimedia.kodi.deb
 Size: 75026
