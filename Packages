@@ -5,7 +5,7 @@ Maintainer: PPSSPP Team <hrydgard+ppsspp@gmail.com>
 Depends: firmware (>8.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/myrepo5000.emulator.ppsspp.deb
-Size: 16855
+Size: 99999
 MD5sum: e3b7d976ced6b9fee8db214c07f6ca53
 Description: PSP Emulator - iOS 11 oder neuer
 Name: PPSSPP
@@ -19,7 +19,7 @@ Maintainer: Kodi Team <sphere@dersphere.de>
 Depends: firmware (>8.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/myrepo5000.multimedia.kodi.deb
-Size: 75026
+Size: 99999
 MD5sum: 19b0d423a00707849d19677f1cb045ff
 Description: Kodi - Multimedia System iOS 10 oder neuer
 Name: Kodi 18.6 Leia
