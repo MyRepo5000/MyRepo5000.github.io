@@ -5,7 +5,7 @@ Maintainer: PPSSPP Team <hrydgard+ppsspp@gmail.com>
 Depends: firmware (>8.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/myrepo5000.emulator.ppsspp.deb
-Size: 99999
+Size: 16800
 MD5sum: e3b7d976ced6b9fee8db214c07f6ca53
 Description: PSP Emulator - iOS 11 oder neuer
 Name: PPSSPP
