@@ -28,10 +28,10 @@ jobs:
     - run: npm run build --if-present
     - run: npm test
 
-- run npm install @osjs/example-application
-- run npm run package:discover
-- run npm run build
-- run npm run serve
+- run: npm install @osjs/example-application
+- run: npm run package:discover
+- run: npm run build
+- run: npm run serve
 
       env:
         CI: true
